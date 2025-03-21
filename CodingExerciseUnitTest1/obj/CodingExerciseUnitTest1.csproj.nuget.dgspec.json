@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\guke\\OneDrive - ERNI Group\\Desktop\\CodingExerciseUnitTest1\\CodingExerciseUnitTest1\\CodingExerciseUnitTest1.csproj": {}
+    "C:\\Users\\extnaca\\source\\repos\\CodingExerciseUnitTest1\\CodingExerciseUnitTest1\\CodingExerciseUnitTest1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\guke\\OneDrive - ERNI Group\\Desktop\\CodingExerciseUnitTest1\\CodingExerciseUnitTest1\\CodingExerciseUnitTest1.csproj": {
+    "C:\\Users\\extnaca\\source\\repos\\CodingExerciseUnitTest1\\CodingExerciseUnitTest1\\CodingExerciseUnitTest1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\guke\\OneDrive - ERNI Group\\Desktop\\CodingExerciseUnitTest1\\CodingExerciseUnitTest1\\CodingExerciseUnitTest1.csproj",
+        "projectUniqueName": "C:\\Users\\extnaca\\source\\repos\\CodingExerciseUnitTest1\\CodingExerciseUnitTest1\\CodingExerciseUnitTest1.csproj",
         "projectName": "CodingExerciseUnitTest1",
-        "projectPath": "C:\\Users\\guke\\OneDrive - ERNI Group\\Desktop\\CodingExerciseUnitTest1\\CodingExerciseUnitTest1\\CodingExerciseUnitTest1.csproj",
-        "packagesPath": "C:\\Users\\guke\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\guke\\OneDrive - ERNI Group\\Desktop\\CodingExerciseUnitTest1\\CodingExerciseUnitTest1\\obj\\",
+        "projectPath": "C:\\Users\\extnaca\\source\\repos\\CodingExerciseUnitTest1\\CodingExerciseUnitTest1\\CodingExerciseUnitTest1.csproj",
+        "packagesPath": "C:\\Users\\extnaca\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\extnaca\\source\\repos\\CodingExerciseUnitTest1\\CodingExerciseUnitTest1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\guke\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\extnaca\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -45,11 +45,21 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.100"
+        "SdkAnalysisLevel": "9.0.200"
       },
       "frameworks": {
         "net9.0": {
           "targetAlias": "net9.0",
+          "dependencies": {
+            "NUnit": {
+              "target": "Package",
+              "version": "[4.3.2, )"
+            },
+            "Shouldly": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -61,12 +71,18 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.Net.Sdk.Compilers.Toolset",
+              "version": "[9.0.202, 9.0.202]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.104/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.202/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
