@@ -1,8 +1,16 @@
 {
   "version": 2,
-  "dgSpecHash": "mDk1XdCk4B4=",
+  "dgSpecHash": "xudmNDl3irA=",
   "success": true,
-  "projectFilePath": "C:\\Users\\guke\\OneDrive - ERNI Group\\Desktop\\CodingExerciseUnitTest1\\CodingExerciseUnitTest1\\CodingExerciseUnitTest1.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\extnaca\\source\\repos\\CodingExerciseUnitTest1\\CodingExerciseUnitTest1\\CodingExerciseUnitTest1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\extnaca\\.nuget\\packages\\diffengine\\11.3.0\\diffengine.11.3.0.nupkg.sha512",
+    "C:\\Users\\extnaca\\.nuget\\packages\\emptyfiles\\4.4.0\\emptyfiles.4.4.0.nupkg.sha512",
+    "C:\\Users\\extnaca\\.nuget\\packages\\nunit\\4.3.2\\nunit.4.3.2.nupkg.sha512",
+    "C:\\Users\\extnaca\\.nuget\\packages\\shouldly\\4.3.0\\shouldly.4.3.0.nupkg.sha512",
+    "C:\\Users\\extnaca\\.nuget\\packages\\system.codedom\\6.0.0\\system.codedom.6.0.0.nupkg.sha512",
+    "C:\\Users\\extnaca\\.nuget\\packages\\system.management\\6.0.1\\system.management.6.0.1.nupkg.sha512",
+    "C:\\Users\\extnaca\\.nuget\\packages\\microsoft.net.sdk.compilers.toolset\\9.0.202\\microsoft.net.sdk.compilers.toolset.9.0.202.nupkg.sha512"
+  ],
   "logs": []
 }
