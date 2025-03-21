@@ -1,8 +1,17 @@
 {
   "version": 2,
-  "dgSpecHash": "mDk1XdCk4B4=",
+  "dgSpecHash": "EPBh76zKMkQ=",
   "success": true,
-  "projectFilePath": "C:\\Users\\guke\\OneDrive - ERNI Group\\Desktop\\CodingExerciseUnitTest1\\CodingExerciseUnitTest1\\CodingExerciseUnitTest1.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\extjaso\\OneDrive - ERNI Group\\Desktop\\Bootcamp\\Exercises\\Unit_Testing_Activity\\CodingExerciseUnitTest1\\CodingExerciseUnitTest1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\extjaso\\.nuget\\packages\\castle.core\\5.1.1\\castle.core.5.1.1.nupkg.sha512",
+    "C:\\Users\\extjaso\\.nuget\\packages\\diffengine\\11.3.0\\diffengine.11.3.0.nupkg.sha512",
+    "C:\\Users\\extjaso\\.nuget\\packages\\emptyfiles\\4.4.0\\emptyfiles.4.4.0.nupkg.sha512",
+    "C:\\Users\\extjaso\\.nuget\\packages\\moq\\4.20.72\\moq.4.20.72.nupkg.sha512",
+    "C:\\Users\\extjaso\\.nuget\\packages\\shouldly\\4.3.0\\shouldly.4.3.0.nupkg.sha512",
+    "C:\\Users\\extjaso\\.nuget\\packages\\system.codedom\\6.0.0\\system.codedom.6.0.0.nupkg.sha512",
+    "C:\\Users\\extjaso\\.nuget\\packages\\system.diagnostics.eventlog\\6.0.0\\system.diagnostics.eventlog.6.0.0.nupkg.sha512",
+    "C:\\Users\\extjaso\\.nuget\\packages\\system.management\\6.0.1\\system.management.6.0.1.nupkg.sha512"
+  ],
   "logs": []
 }

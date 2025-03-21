@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\extjaso\\OneDrive - ERNI Group\\Desktop\\Bootcamp\\Exercises\\Unit_Testing_Activity\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{231415E1-ACFB-4BD1-948B-F479FC1E33C4}|UnitTestingActivity\\UnitTestingActivity.csproj|c:\\users\\extjaso\\onedrive - erni group\\desktop\\bootcamp\\exercises\\unit_testing_activity\\unittestingactivity\\userserviceunittest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{231415E1-ACFB-4BD1-948B-F479FC1E33C4}|UnitTestingActivity\\UnitTestingActivity.csproj|solutionrelative:unittestingactivity\\userserviceunittest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5912AA44-B173-440F-AFBE-F623A908DED4}|CodingExerciseUnitTest1\\CodingExerciseUnitTest1.csproj|c:\\users\\extjaso\\onedrive - erni group\\desktop\\bootcamp\\exercises\\unit_testing_activity\\codingexerciseunittest1\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5912AA44-B173-440F-AFBE-F623A908DED4}|CodingExerciseUnitTest1\\CodingExerciseUnitTest1.csproj|solutionrelative:codingexerciseunittest1\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{231415E1-ACFB-4BD1-948B-F479FC1E33C4}|UnitTestingActivity\\UnitTestingActivity.csproj|c:\\users\\extjaso\\onedrive - erni group\\desktop\\bootcamp\\exercises\\unit_testing_activity\\unittestingactivity\\unittestingactivity.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{231415E1-ACFB-4BD1-948B-F479FC1E33C4}|UnitTestingActivity\\UnitTestingActivity.csproj|solutionrelative:unittestingactivity\\unittestingactivity.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 184,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 183,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UnitTestingActivity.csproj",
+              "DocumentMoniker": "C:\\Users\\extjaso\\OneDrive - ERNI Group\\Desktop\\Bootcamp\\Exercises\\Unit_Testing_Activity\\UnitTestingActivity\\UnitTestingActivity.csproj",
+              "RelativeDocumentMoniker": "UnitTestingActivity\\UnitTestingActivity.csproj",
+              "ToolTip": "C:\\Users\\extjaso\\OneDrive - ERNI Group\\Desktop\\Bootcamp\\Exercises\\Unit_Testing_Activity\\UnitTestingActivity\\UnitTestingActivity.csproj",
+              "RelativeToolTip": "UnitTestingActivity\\UnitTestingActivity.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-21T05:59:25.883Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserServiceUnitTest.cs",
+              "DocumentMoniker": "C:\\Users\\extjaso\\OneDrive - ERNI Group\\Desktop\\Bootcamp\\Exercises\\Unit_Testing_Activity\\UnitTestingActivity\\UserServiceUnitTest.cs",
+              "RelativeDocumentMoniker": "UnitTestingActivity\\UserServiceUnitTest.cs",
+              "ToolTip": "C:\\Users\\extjaso\\OneDrive - ERNI Group\\Desktop\\Bootcamp\\Exercises\\Unit_Testing_Activity\\UnitTestingActivity\\UserServiceUnitTest.cs",
+              "RelativeToolTip": "UnitTestingActivity\\UserServiceUnitTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAowGgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T05:57:45.387Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "FloatingWindowState": {
+        "Id": "4017b2b4-c94e-41f5-877d-0165ce0ce0f2",
+        "Display": 1,
+        "X": 549,
+        "Y": 96,
+        "Width": 1267,
+        "Height": 819,
+        "WindowState": 0
+      },
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\extjaso\\OneDrive - ERNI Group\\Desktop\\Bootcamp\\Exercises\\Unit_Testing_Activity\\CodingExerciseUnitTest1\\UserService.cs",
+              "RelativeDocumentMoniker": "CodingExerciseUnitTest1\\UserService.cs",
+              "ToolTip": "C:\\Users\\extjaso\\OneDrive - ERNI Group\\Desktop\\Bootcamp\\Exercises\\Unit_Testing_Activity\\CodingExerciseUnitTest1\\UserService.cs",
+              "RelativeToolTip": "CodingExerciseUnitTest1\\UserService.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwA4AAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T07:45:24.809Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
