@@ -1,0 +1,6 @@
+C:\Users\extesca\OneDrive - ERNI Group\Desktop\unit_test\CodingExerciseUnitTest1\obj\Debug\net9.0\CodingExerciseUnitTest1.csproj.AssemblyReference.cache
+C:\Users\extesca\OneDrive - ERNI Group\Desktop\unit_test\CodingExerciseUnitTest1\obj\Debug\net9.0\CodingExerciseUnitTest1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\extesca\OneDrive - ERNI Group\Desktop\unit_test\CodingExerciseUnitTest1\obj\Debug\net9.0\CodingExerciseUnitTest1.AssemblyInfoInputs.cache
+C:\Users\extesca\OneDrive - ERNI Group\Desktop\unit_test\CodingExerciseUnitTest1\obj\Debug\net9.0\CodingExerciseUnitTest1.AssemblyInfo.cs
+C:\Users\extesca\OneDrive - ERNI Group\Desktop\unit_test\CodingExerciseUnitTest1\obj\Debug\net9.0\CodingExerciseUnitTest1.csproj.CoreCompileInputs.cache
+C:\Users\extesca\OneDrive - ERNI Group\Desktop\unit_test\CodingExerciseUnitTest1\obj\Debug\net9.0\CodingExerciseUnitTest1.sourcelink.json
