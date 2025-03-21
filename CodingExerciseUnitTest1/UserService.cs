@@ -1,3 +1,5 @@
+using Moq;
+
 namespace CodingExerciseUnitTest1
 {
     public class UserService : IUserService
