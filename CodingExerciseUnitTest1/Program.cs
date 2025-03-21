@@ -1,8 +1,8 @@
 ﻿namespace CodingExerciseUnitTest1;
 
-class Program
+public class Program
 {
-    static void Main(string[] args)
+    public static void Main(string[] args)
     {
         IUserService userService = new UserService();
         
