@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\extpeda\\source\\repos\\CodingExerciseUnitTest1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AC822F6C-3514-4553-83E1-A52DC8B5DDB0}|UnitTestingAct\\UnitTestingAct.csproj|c:\\users\\extpeda\\source\\repos\\codingexerciseunittest1\\unittestingact\\unitservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC822F6C-3514-4553-83E1-A52DC8B5DDB0}|UnitTestingAct\\UnitTestingAct.csproj|solutionrelative:unittestingact\\unitservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5912AA44-B173-440F-AFBE-F623A908DED4}|CodingExerciseUnitTest1\\CodingExerciseUnitTest1.csproj|c:\\users\\extpeda\\source\\repos\\codingexerciseunittest1\\codingexerciseunittest1\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5912AA44-B173-440F-AFBE-F623A908DED4}|CodingExerciseUnitTest1\\CodingExerciseUnitTest1.csproj|solutionrelative:codingexerciseunittest1\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5912AA44-B173-440F-AFBE-F623A908DED4}|CodingExerciseUnitTest1\\CodingExerciseUnitTest1.csproj|c:\\users\\extpeda\\source\\repos\\codingexerciseunittest1\\codingexerciseunittest1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5912AA44-B173-440F-AFBE-F623A908DED4}|CodingExerciseUnitTest1\\CodingExerciseUnitTest1.csproj|solutionrelative:codingexerciseunittest1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC822F6C-3514-4553-83E1-A52DC8B5DDB0}|UnitTestingAct\\UnitTestingAct.csproj|c:\\users\\extpeda\\source\\repos\\codingexerciseunittest1\\unittestingact\\unittestingact.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{AC822F6C-3514-4553-83E1-A52DC8B5DDB0}|UnitTestingAct\\UnitTestingAct.csproj|solutionrelative:unittestingact\\unittestingact.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5912AA44-B173-440F-AFBE-F623A908DED4}|CodingExerciseUnitTest1\\CodingExerciseUnitTest1.csproj|c:\\users\\extpeda\\source\\repos\\codingexerciseunittest1\\codingexerciseunittest1\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5912AA44-B173-440F-AFBE-F623A908DED4}|CodingExerciseUnitTest1\\CodingExerciseUnitTest1.csproj|solutionrelative:codingexerciseunittest1\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5912AA44-B173-440F-AFBE-F623A908DED4}|CodingExerciseUnitTest1\\CodingExerciseUnitTest1.csproj|c:\\users\\extpeda\\source\\repos\\codingexerciseunittest1\\codingexerciseunittest1\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5912AA44-B173-440F-AFBE-F623A908DED4}|CodingExerciseUnitTest1\\CodingExerciseUnitTest1.csproj|solutionrelative:codingexerciseunittest1\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\extpeda\\source\\repos\\CodingExerciseUnitTest1\\CodingExerciseUnitTest1\\IUserService.cs",
+              "RelativeDocumentMoniker": "CodingExerciseUnitTest1\\IUserService.cs",
+              "ToolTip": "C:\\Users\\extpeda\\source\\repos\\CodingExerciseUnitTest1\\CodingExerciseUnitTest1\\IUserService.cs",
+              "RelativeToolTip": "CodingExerciseUnitTest1\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T05:58:21.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\extpeda\\source\\repos\\CodingExerciseUnitTest1\\CodingExerciseUnitTest1\\Program.cs",
+              "RelativeDocumentMoniker": "CodingExerciseUnitTest1\\Program.cs",
+              "ToolTip": "C:\\Users\\extpeda\\source\\repos\\CodingExerciseUnitTest1\\CodingExerciseUnitTest1\\Program.cs",
+              "RelativeToolTip": "CodingExerciseUnitTest1\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwAYAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T05:37:38.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UnitTestingAct",
+              "DocumentMoniker": "C:\\Users\\extpeda\\Source\\Repos\\CodingExerciseUnitTest1\\UnitTestingAct\\UnitTestingAct.csproj",
+              "RelativeDocumentMoniker": "UnitTestingAct\\UnitTestingAct.csproj",
+              "ToolTip": "C:\\Users\\extpeda\\Source\\Repos\\CodingExerciseUnitTest1\\UnitTestingAct\\UnitTestingAct.csproj",
+              "RelativeToolTip": "UnitTestingAct\\UnitTestingAct.csproj",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAcAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-21T03:51:56.611Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitServiceTest.cs",
+              "DocumentMoniker": "C:\\Users\\extpeda\\Source\\Repos\\CodingExerciseUnitTest1\\UnitTestingAct\\UnitServiceTest.cs",
+              "RelativeDocumentMoniker": "UnitTestingAct\\UnitServiceTest.cs",
+              "ToolTip": "C:\\Users\\extpeda\\Source\\Repos\\CodingExerciseUnitTest1\\UnitTestingAct\\UnitServiceTest.cs",
+              "RelativeToolTip": "UnitTestingAct\\UnitServiceTest.cs",
+              "ViewState": "AgIAAFkAAAAAAAAAAAAlwFgAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T03:45:56.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\extpeda\\source\\repos\\CodingExerciseUnitTest1\\CodingExerciseUnitTest1\\UserService.cs",
+              "RelativeDocumentMoniker": "CodingExerciseUnitTest1\\UserService.cs",
+              "ToolTip": "C:\\Users\\extpeda\\source\\repos\\CodingExerciseUnitTest1\\CodingExerciseUnitTest1\\UserService.cs",
+              "RelativeToolTip": "CodingExerciseUnitTest1\\UserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T03:20:01.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\extpeda\\source\\repos\\CodingExerciseUnitTest1\\CodingExerciseUnitTest1\\User.cs",
+              "RelativeDocumentMoniker": "CodingExerciseUnitTest1\\User.cs",
+              "ToolTip": "C:\\Users\\extpeda\\source\\repos\\CodingExerciseUnitTest1\\CodingExerciseUnitTest1\\User.cs",
+              "RelativeToolTip": "CodingExerciseUnitTest1\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T03:19:59.566Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
