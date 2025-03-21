@@ -1,8 +1,21 @@
 {
   "version": 2,
-  "dgSpecHash": "mDk1XdCk4B4=",
+  "dgSpecHash": "gQ8Y+yCaCCI=",
   "success": true,
-  "projectFilePath": "C:\\Users\\guke\\OneDrive - ERNI Group\\Desktop\\CodingExerciseUnitTest1\\CodingExerciseUnitTest1\\CodingExerciseUnitTest1.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\extmokt\\Source\\Repos\\CodingExerciseUnitTest1\\CodingExerciseUnitTest1\\CodingExerciseUnitTest1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\extmokt\\.nuget\\packages\\castle.core\\5.1.1\\castle.core.5.1.1.nupkg.sha512",
+    "C:\\Users\\extmokt\\.nuget\\packages\\diffengine\\11.3.0\\diffengine.11.3.0.nupkg.sha512",
+    "C:\\Users\\extmokt\\.nuget\\packages\\emptyfiles\\4.4.0\\emptyfiles.4.4.0.nupkg.sha512",
+    "C:\\Users\\extmokt\\.nuget\\packages\\moq\\4.20.72\\moq.4.20.72.nupkg.sha512",
+    "C:\\Users\\extmokt\\.nuget\\packages\\shouldly\\4.3.0\\shouldly.4.3.0.nupkg.sha512",
+    "C:\\Users\\extmokt\\.nuget\\packages\\system.codedom\\6.0.0\\system.codedom.6.0.0.nupkg.sha512",
+    "C:\\Users\\extmokt\\.nuget\\packages\\system.diagnostics.eventlog\\6.0.0\\system.diagnostics.eventlog.6.0.0.nupkg.sha512",
+    "C:\\Users\\extmokt\\.nuget\\packages\\system.management\\6.0.1\\system.management.6.0.1.nupkg.sha512",
+    "C:\\Users\\extmokt\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.14\\microsoft.windowsdesktop.app.ref.8.0.14.nupkg.sha512",
+    "C:\\Users\\extmokt\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.14\\microsoft.netcore.app.ref.8.0.14.nupkg.sha512",
+    "C:\\Users\\extmokt\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.14\\microsoft.aspnetcore.app.ref.8.0.14.nupkg.sha512",
+    "C:\\Users\\extmokt\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.14\\microsoft.netcore.app.host.win-x64.8.0.14.nupkg.sha512"
+  ],
   "logs": []
 }
