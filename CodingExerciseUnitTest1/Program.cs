@@ -1,7 +1,13 @@
-﻿namespace CodingExerciseUnitTest1;
+﻿
+namespace CodingExerciseUnitTest1;
 
-class Program
+public class Program
 {
+    public static void Main(object value)
+    {
+        throw new NotImplementedException();
+    }
+
     static void Main(string[] args)
     {
         IUserService userService = new UserService();
@@ -21,6 +27,7 @@ class Program
             Console.Write("Choose an option: ");
     
             var choice = Console.ReadLine();
+
             switch (choice)
             {
                 case "1":

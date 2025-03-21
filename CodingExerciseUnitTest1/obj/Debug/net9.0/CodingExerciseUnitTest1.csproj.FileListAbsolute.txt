@@ -12,3 +12,18 @@ C:\Users\guke\OneDrive - ERNI Group\Desktop\CodingExerciseUnitTest1\CodingExerci
 C:\Users\guke\OneDrive - ERNI Group\Desktop\CodingExerciseUnitTest1\CodingExerciseUnitTest1\obj\Debug\net9.0\CodingExerciseUnitTest1.pdb
 C:\Users\guke\OneDrive - ERNI Group\Desktop\CodingExerciseUnitTest1\CodingExerciseUnitTest1\obj\Debug\net9.0\CodingExerciseUnitTest1.genruntimeconfig.cache
 C:\Users\guke\OneDrive - ERNI Group\Desktop\CodingExerciseUnitTest1\CodingExerciseUnitTest1\obj\Debug\net9.0\ref\CodingExerciseUnitTest1.dll
+C:\Users\extarhe\source\repos\bootcamp-repos\Unit-Test\CodingExerciseUnitTest1\CodingExerciseUnitTest1\bin\Debug\net9.0\CodingExerciseUnitTest1.exe
+C:\Users\extarhe\source\repos\bootcamp-repos\Unit-Test\CodingExerciseUnitTest1\CodingExerciseUnitTest1\bin\Debug\net9.0\CodingExerciseUnitTest1.deps.json
+C:\Users\extarhe\source\repos\bootcamp-repos\Unit-Test\CodingExerciseUnitTest1\CodingExerciseUnitTest1\bin\Debug\net9.0\CodingExerciseUnitTest1.runtimeconfig.json
+C:\Users\extarhe\source\repos\bootcamp-repos\Unit-Test\CodingExerciseUnitTest1\CodingExerciseUnitTest1\bin\Debug\net9.0\CodingExerciseUnitTest1.dll
+C:\Users\extarhe\source\repos\bootcamp-repos\Unit-Test\CodingExerciseUnitTest1\CodingExerciseUnitTest1\bin\Debug\net9.0\CodingExerciseUnitTest1.pdb
+C:\Users\extarhe\source\repos\bootcamp-repos\Unit-Test\CodingExerciseUnitTest1\CodingExerciseUnitTest1\obj\Debug\net9.0\CodingExerciseUnitTest1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\extarhe\source\repos\bootcamp-repos\Unit-Test\CodingExerciseUnitTest1\CodingExerciseUnitTest1\obj\Debug\net9.0\CodingExerciseUnitTest1.AssemblyInfoInputs.cache
+C:\Users\extarhe\source\repos\bootcamp-repos\Unit-Test\CodingExerciseUnitTest1\CodingExerciseUnitTest1\obj\Debug\net9.0\CodingExerciseUnitTest1.AssemblyInfo.cs
+C:\Users\extarhe\source\repos\bootcamp-repos\Unit-Test\CodingExerciseUnitTest1\CodingExerciseUnitTest1\obj\Debug\net9.0\CodingExerciseUnitTest1.csproj.CoreCompileInputs.cache
+C:\Users\extarhe\source\repos\bootcamp-repos\Unit-Test\CodingExerciseUnitTest1\CodingExerciseUnitTest1\obj\Debug\net9.0\CodingExerciseUnitTest1.sourcelink.json
+C:\Users\extarhe\source\repos\bootcamp-repos\Unit-Test\CodingExerciseUnitTest1\CodingExerciseUnitTest1\obj\Debug\net9.0\CodingExerciseUnitTest1.dll
+C:\Users\extarhe\source\repos\bootcamp-repos\Unit-Test\CodingExerciseUnitTest1\CodingExerciseUnitTest1\obj\Debug\net9.0\refint\CodingExerciseUnitTest1.dll
+C:\Users\extarhe\source\repos\bootcamp-repos\Unit-Test\CodingExerciseUnitTest1\CodingExerciseUnitTest1\obj\Debug\net9.0\CodingExerciseUnitTest1.pdb
+C:\Users\extarhe\source\repos\bootcamp-repos\Unit-Test\CodingExerciseUnitTest1\CodingExerciseUnitTest1\obj\Debug\net9.0\CodingExerciseUnitTest1.genruntimeconfig.cache
+C:\Users\extarhe\source\repos\bootcamp-repos\Unit-Test\CodingExerciseUnitTest1\CodingExerciseUnitTest1\obj\Debug\net9.0\ref\CodingExerciseUnitTest1.dll
