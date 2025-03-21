@@ -4,7 +4,8 @@
         <OutputType>Exe</OutputType>
         <TargetFramework>net9.0</TargetFramework>
         <ImplicitUsings>enable</ImplicitUsings>
-        <Nullable>enable</Nullable>
+        <Nullable>disable</Nullable>
+		<NoWarn>IDE0055,IDE0058,NUnit1001,CA1707,CS8618</NoWarn>
     </PropertyGroup>
 
 </Project>

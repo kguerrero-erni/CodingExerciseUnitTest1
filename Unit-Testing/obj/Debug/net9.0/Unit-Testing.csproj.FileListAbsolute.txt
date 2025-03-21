@@ -1,0 +1,8 @@
+C:\Users\extarhe\source\repos\bootcamp-repos\Unit-Test\CodingExerciseUnitTest1\Unit-Testing\bin\Debug\net9.0\.msCoverageSourceRootsMapping_Unit-Testing
+C:\Users\extarhe\source\repos\bootcamp-repos\Unit-Test\CodingExerciseUnitTest1\Unit-Testing\bin\Debug\net9.0\CoverletSourceRootsMapping_Unit-Testing
+C:\Users\extarhe\source\repos\bootcamp-repos\Unit-Test\CodingExerciseUnitTest1\Unit-Testing\obj\Debug\net9.0\Unit-Testing.csproj.AssemblyReference.cache
+C:\Users\extarhe\source\repos\bootcamp-repos\Unit-Test\CodingExerciseUnitTest1\Unit-Testing\obj\Debug\net9.0\Unit-Testing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\extarhe\source\repos\bootcamp-repos\Unit-Test\CodingExerciseUnitTest1\Unit-Testing\obj\Debug\net9.0\Unit-Testing.AssemblyInfoInputs.cache
+C:\Users\extarhe\source\repos\bootcamp-repos\Unit-Test\CodingExerciseUnitTest1\Unit-Testing\obj\Debug\net9.0\Unit-Testing.AssemblyInfo.cs
+C:\Users\extarhe\source\repos\bootcamp-repos\Unit-Test\CodingExerciseUnitTest1\Unit-Testing\obj\Debug\net9.0\Unit-Testing.csproj.CoreCompileInputs.cache
+C:\Users\extarhe\source\repos\bootcamp-repos\Unit-Test\CodingExerciseUnitTest1\Unit-Testing\obj\Debug\net9.0\Unit-Testing.sourcelink.json
