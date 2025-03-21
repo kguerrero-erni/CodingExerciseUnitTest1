@@ -12,6 +12,7 @@ namespace CodingExerciseUnitTest1
         public User AddUser(string name)
         {
             if (string.IsNullOrWhiteSpace(name))
+                
                 throw new ArgumentException("User name cannot be empty.");
 
             var user = new User { Id = _nextId++, Name = name };
