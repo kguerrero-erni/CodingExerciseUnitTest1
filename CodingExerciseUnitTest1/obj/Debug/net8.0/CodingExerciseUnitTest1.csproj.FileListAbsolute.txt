@@ -1,0 +1,15 @@
+C:\Users\extcojc\OneDrive - ERNI Group\Desktop\ERNI-EPM-University\6. Code Quality\6.2 Unit Testing\CodeExerciseUnitTest1\CodingExerciseUnitTest1\bin\Debug\net8.0\CodingExerciseUnitTest1.exe
+C:\Users\extcojc\OneDrive - ERNI Group\Desktop\ERNI-EPM-University\6. Code Quality\6.2 Unit Testing\CodeExerciseUnitTest1\CodingExerciseUnitTest1\bin\Debug\net8.0\CodingExerciseUnitTest1.deps.json
+C:\Users\extcojc\OneDrive - ERNI Group\Desktop\ERNI-EPM-University\6. Code Quality\6.2 Unit Testing\CodeExerciseUnitTest1\CodingExerciseUnitTest1\bin\Debug\net8.0\CodingExerciseUnitTest1.runtimeconfig.json
+C:\Users\extcojc\OneDrive - ERNI Group\Desktop\ERNI-EPM-University\6. Code Quality\6.2 Unit Testing\CodeExerciseUnitTest1\CodingExerciseUnitTest1\bin\Debug\net8.0\CodingExerciseUnitTest1.dll
+C:\Users\extcojc\OneDrive - ERNI Group\Desktop\ERNI-EPM-University\6. Code Quality\6.2 Unit Testing\CodeExerciseUnitTest1\CodingExerciseUnitTest1\bin\Debug\net8.0\CodingExerciseUnitTest1.pdb
+C:\Users\extcojc\OneDrive - ERNI Group\Desktop\ERNI-EPM-University\6. Code Quality\6.2 Unit Testing\CodeExerciseUnitTest1\CodingExerciseUnitTest1\obj\Debug\net8.0\CodingExerciseUnitTest1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\extcojc\OneDrive - ERNI Group\Desktop\ERNI-EPM-University\6. Code Quality\6.2 Unit Testing\CodeExerciseUnitTest1\CodingExerciseUnitTest1\obj\Debug\net8.0\CodingExerciseUnitTest1.AssemblyInfoInputs.cache
+C:\Users\extcojc\OneDrive - ERNI Group\Desktop\ERNI-EPM-University\6. Code Quality\6.2 Unit Testing\CodeExerciseUnitTest1\CodingExerciseUnitTest1\obj\Debug\net8.0\CodingExerciseUnitTest1.AssemblyInfo.cs
+C:\Users\extcojc\OneDrive - ERNI Group\Desktop\ERNI-EPM-University\6. Code Quality\6.2 Unit Testing\CodeExerciseUnitTest1\CodingExerciseUnitTest1\obj\Debug\net8.0\CodingExerciseUnitTest1.csproj.CoreCompileInputs.cache
+C:\Users\extcojc\OneDrive - ERNI Group\Desktop\ERNI-EPM-University\6. Code Quality\6.2 Unit Testing\CodeExerciseUnitTest1\CodingExerciseUnitTest1\obj\Debug\net8.0\CodingExerciseUnitTest1.sourcelink.json
+C:\Users\extcojc\OneDrive - ERNI Group\Desktop\ERNI-EPM-University\6. Code Quality\6.2 Unit Testing\CodeExerciseUnitTest1\CodingExerciseUnitTest1\obj\Debug\net8.0\CodingExerciseUnitTest1.dll
+C:\Users\extcojc\OneDrive - ERNI Group\Desktop\ERNI-EPM-University\6. Code Quality\6.2 Unit Testing\CodeExerciseUnitTest1\CodingExerciseUnitTest1\obj\Debug\net8.0\refint\CodingExerciseUnitTest1.dll
+C:\Users\extcojc\OneDrive - ERNI Group\Desktop\ERNI-EPM-University\6. Code Quality\6.2 Unit Testing\CodeExerciseUnitTest1\CodingExerciseUnitTest1\obj\Debug\net8.0\CodingExerciseUnitTest1.pdb
+C:\Users\extcojc\OneDrive - ERNI Group\Desktop\ERNI-EPM-University\6. Code Quality\6.2 Unit Testing\CodeExerciseUnitTest1\CodingExerciseUnitTest1\obj\Debug\net8.0\CodingExerciseUnitTest1.genruntimeconfig.cache
+C:\Users\extcojc\OneDrive - ERNI Group\Desktop\ERNI-EPM-University\6. Code Quality\6.2 Unit Testing\CodeExerciseUnitTest1\CodingExerciseUnitTest1\obj\Debug\net8.0\ref\CodingExerciseUnitTest1.dll
