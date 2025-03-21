@@ -10,5 +10,6 @@ namespace CodingExerciseUnitTest1
         bool UpdateUser(int id, string newName);
         bool DeleteUser(int id);
         User GetUserById(int id);
+        object Setup(Func<object, object> value);
     }
 }

@@ -1,8 +1,19 @@
 {
   "version": 2,
-  "dgSpecHash": "mDk1XdCk4B4=",
+  "dgSpecHash": "R7AoHk23PpE=",
   "success": true,
-  "projectFilePath": "C:\\Users\\guke\\OneDrive - ERNI Group\\Desktop\\CodingExerciseUnitTest1\\CodingExerciseUnitTest1\\CodingExerciseUnitTest1.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\extpeda\\source\\repos\\CodingExerciseUnitTest1\\CodingExerciseUnitTest1\\CodingExerciseUnitTest1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\extpeda\\.nuget\\packages\\castle.core\\5.1.1\\castle.core.5.1.1.nupkg.sha512",
+    "C:\\Users\\extpeda\\.nuget\\packages\\diffengine\\11.3.0\\diffengine.11.3.0.nupkg.sha512",
+    "C:\\Users\\extpeda\\.nuget\\packages\\emptyfiles\\4.4.0\\emptyfiles.4.4.0.nupkg.sha512",
+    "C:\\Users\\extpeda\\.nuget\\packages\\moq\\4.20.72\\moq.4.20.72.nupkg.sha512",
+    "C:\\Users\\extpeda\\.nuget\\packages\\nuget.commandline\\6.13.2\\nuget.commandline.6.13.2.nupkg.sha512",
+    "C:\\Users\\extpeda\\.nuget\\packages\\nunit\\4.3.2\\nunit.4.3.2.nupkg.sha512",
+    "C:\\Users\\extpeda\\.nuget\\packages\\shouldly\\4.3.0\\shouldly.4.3.0.nupkg.sha512",
+    "C:\\Users\\extpeda\\.nuget\\packages\\system.codedom\\6.0.0\\system.codedom.6.0.0.nupkg.sha512",
+    "C:\\Users\\extpeda\\.nuget\\packages\\system.diagnostics.eventlog\\6.0.0\\system.diagnostics.eventlog.6.0.0.nupkg.sha512",
+    "C:\\Users\\extpeda\\.nuget\\packages\\system.management\\6.0.1\\system.management.6.0.1.nupkg.sha512"
+  ],
   "logs": []
 }

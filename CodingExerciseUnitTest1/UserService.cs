@@ -45,5 +45,10 @@ namespace CodingExerciseUnitTest1
 
             return removed;
         }
+
+        public object Setup(Func<object, object> value)
+        {
+            throw new NotImplementedException();
+        }
     }
 }
