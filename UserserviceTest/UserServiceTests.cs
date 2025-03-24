@@ -23,49 +23,90 @@ namespace UserserviceTests
         [TestCase("John")]
         public void AddUser_ShouldReturnUser_WhenUserExist(String name)
         {
-            var result = _userservice.AddUser(name);
-            //Assert
-            result.Name.ShouldBe(name);
+            var user = _userservice.AddUser("John");
+            var getId = _userservice.GetUserById(user.Id);
+            getId.ShouldBe(user);
         }
+
+
+        [Test]
+        [TestCase(null)]
+        [TestCase(" ")]
+        public void AddUser_ShouldThrowException_WhenNameIsNullorEmpty(string? name)
+        {
+
+            var exception = Should.Throw<ArgumentException>(() => _userservice.AddUser(name));
+            exception.Message.ShouldBe("User name cannot be empty.");
+        }
+
 
         [Test]
         [TestCase("John")]
         public void UpdateUser_ShouldUpdateUser_WhenUserExist(String name)
         {
-            //Arange
+
             var user = _userservice.AddUser(name);
-            //Act
+
             var getId = _userservice.GetUserById(user.Id);
             var result = _userservice.UpdateUser(1, "Paul");
-            //Assert
+
             result.ShouldBeTrue();
         }
+
+        [Test]
+        [TestCase(1, "Emmanuel")]
+        public void UpdateUser_ShouldReturnFalse_WhenUserDoesNotExist(int id, string newName)
+        {
+
+            var result = _userservice.UpdateUser(id, newName);
+
+            result.ShouldBeFalse();
+        }
+
+        [Test]
+        [TestCase(1)]
+        public void UpdateUser_ShouldAddUser_WhenUserDoesNotExist(int id)
+        {
+            var result = _userservice.UpdateUser(id, "Paul");
+            result.ShouldBeFalse();
+            var addedUser = _userservice.AddUser("Paul");
+            addedUser.Name.ShouldBe("Paul");
+        }
+
 
         [Test]
         [TestCase("John")]
         public void DeleteUser_ShouldDeleteUser_WhenUserExist(String name)
         {
-            //Arange
+
             var user = _userservice.AddUser(name);
-            //Act
+
             var getId = _userservice.GetUserById(user.Id);
             var result = _userservice.DeleteUser(1);
-            //Assert
+
             result.ShouldBeTrue();
         }
 
         [Test]
-        [TestCase("John", "Emmanuel", "Piccolo")]
-        public void GetUsers_ShouldReturnAllUsers_WhenUserExist(params string[] names)
+        [TestCase(1)]
+        public void DeleteUser_ShouldReturnFalse_WhenUserDoesNotExist(int id)
         {
-            // Arrange
+            var result = _userservice.DeleteUser(id);
+            result.ShouldBeFalse();
+        }
+
+        [Test]
+        [TestCase("John", "Emmanuel", "Piccolo")]
+        public void GetUsers_ShouldReturnAllUsers_WhenUsersExist(params string[] names)
+        {
+
             foreach (var name in names)
             {
                 var user = _userservice.AddUser(name);
             }
-            // Act
+
             var users = _userservice.GetAllUsers();
-            // Assert
+
             users.Count.ShouldBe(names.Length);
             foreach (var name in names)
             {
@@ -73,78 +114,34 @@ namespace UserserviceTests
             }
         }
 
-        //[Test]
-        //public void AddUser_ShouldThrowException_WhenNameIsNull()
-        //{
-        //    //Arange
-        //    var user = new User
-        //    {
-        //        Id = 1,
-        //        Name = null
-        //    };
-        //    //Act
-        //    _userserviceMock.Setup(x => x.AddUser(null)).Throws<ArgumentException>();
-        //    //Assert
-        //    Should.Throw<ArgumentException>(() => _userserviceMock.Object.AddUser(null));
-        //}
-        //[Test]
-        //public void AddUser_ShouldThrowException_WhenNameIsEmpty()
-        //{
-        //    //Arange
-        //    var user = new User
-        //    {
-        //        Id = 5,
-        //        Name = ""
-        //    };
-        //    //Act
-        //    _userserviceMock.Setup(x => x.AddUser("")).Throws<ArgumentException>();
+        [Test]
+        [TestCase(1)]
+        public void GetUserById_ShouldReturnUser_WhenUserExist(int id)
+        {
+            var user = _userservice.AddUser("John");
+            var getId = _userservice.GetUserById(user.Id);
+            getId.ShouldBe(user);
+        }
 
-        //    //Assert
-        //    var test = Should.Throw<ArgumentException>(() => _userserviceMock.Object.AddUser(""));
-        //}
 
-        ////Others
-        //[Test]
-        //public void GetUserById_ShouldReturnNull_WhenUserDoesNotExist()
-        //{
-        //    //Arange
+       
+        [Test]
+        [TestCase(1)]
+        public void GetUserById_ShouldReturnNull_WhenUserDoesNotExist(int id)
+        {
 
-        //    //Act
-        //    _userserviceMock.Setup(x => x.GetUserById(2)).Returns((User)null);
-        //    var result = _userserviceMock.Object.GetUserById(2);
-        //    //Assert
-        //    result.ShouldBeNull();
-        //}
-        //[Test]
-        //public void UpdateUser_ShouldReturnFalse_WhenUserDoesNotExist()
-        //{
-        //    //Arange
-        //    var user = new User
-        //    {
-        //        Id = 1,
-        //        Name = "John"
-        //    };
-        //    //Act
-        //    _userserviceMock.Setup(x => x.UpdateUser(2, "Emmanuel")).Returns(false);
-        //    var result = _userserviceMock.Object.UpdateUser(2, "Emmanuel");
-        //    //Assert
-        //    result.ShouldBeFalse();
-        //}
-        ////[Test]
-        ////public void UpdateUser_ShouldReturnNewUser_WhenUserDoesNotExist()
-        ////{
-        ////    //Arange
-        ////    var user = new User
-        ////    {
-        ////        Id = 1,
-        ////        Name = "John"
-        ////    };
-        ////    //Act
-        ////    _userserviceMock.Setup(x => x.UpdateUser(1, "John")).Returns((User));
-        ////    var result = _userserviceMock.Object.UpdateUser(1, "Emmanuel");
-        ////    //Assert
-        ////    result.ShouldBeTrue();
-        ////}
+            var user = _userservice.GetUserById(id);
 
+            user.ShouldBeNull();
+        }
+
+       
+       
     }
-    }
+}
+
+
+
+
+
+
