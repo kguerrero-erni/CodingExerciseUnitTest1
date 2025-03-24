@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\extcojc\\OneDrive - ERNI Group\\Desktop\\ERNI-EPM-University\\6. Code Quality\\6.2 Unit Testing\\CodeExerciseUnitTest1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5912AA44-B173-440F-AFBE-F623A908DED4}|CodingExerciseUnitTest1\\CodingExerciseUnitTest1.csproj|c:\\users\\extcojc\\onedrive - erni group\\desktop\\erni-epm-university\\6. code quality\\6.2 unit testing\\codeexerciseunittest1\\codingexerciseunittest1\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5912AA44-B173-440F-AFBE-F623A908DED4}|CodingExerciseUnitTest1\\CodingExerciseUnitTest1.csproj|solutionrelative:codingexerciseunittest1\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{842187BC-7D1D-4D03-A82A-F03AD0DA007B}|CodingExerciseUnitTest1Tests\\CodingExerciseUnitTest1Tests.csproj|c:\\users\\extcojc\\onedrive - erni group\\desktop\\erni-epm-university\\6. code quality\\6.2 unit testing\\codeexerciseunittest1\\codingexerciseunittest1tests\\programtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{842187BC-7D1D-4D03-A82A-F03AD0DA007B}|CodingExerciseUnitTest1Tests\\CodingExerciseUnitTest1Tests.csproj|solutionrelative:codingexerciseunittest1tests\\programtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5912AA44-B173-440F-AFBE-F623A908DED4}|CodingExerciseUnitTest1\\CodingExerciseUnitTest1.csproj|c:\\users\\extcojc\\onedrive - erni group\\desktop\\erni-epm-university\\6. code quality\\6.2 unit testing\\codeexerciseunittest1\\codingexerciseunittest1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5912AA44-B173-440F-AFBE-F623A908DED4}|CodingExerciseUnitTest1\\CodingExerciseUnitTest1.csproj|solutionrelative:codingexerciseunittest1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\extcojc\\OneDrive - ERNI Group\\Desktop\\ERNI-EPM-University\\6. Code Quality\\6.2 Unit Testing\\CodeExerciseUnitTest1\\CodingExerciseUnitTest1\\UserService.cs",
+              "RelativeDocumentMoniker": "CodingExerciseUnitTest1\\UserService.cs",
+              "ToolTip": "C:\\Users\\extcojc\\OneDrive - ERNI Group\\Desktop\\ERNI-EPM-University\\6. Code Quality\\6.2 Unit Testing\\CodeExerciseUnitTest1\\CodingExerciseUnitTest1\\UserService.cs",
+              "RelativeToolTip": "CodingExerciseUnitTest1\\UserService.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAkwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T02:38:12.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\extcojc\\OneDrive - ERNI Group\\Desktop\\ERNI-EPM-University\\6. Code Quality\\6.2 Unit Testing\\CodeExerciseUnitTest1\\CodingExerciseUnitTest1\\Program.cs",
+              "RelativeDocumentMoniker": "CodingExerciseUnitTest1\\Program.cs",
+              "ToolTip": "C:\\Users\\extcojc\\OneDrive - ERNI Group\\Desktop\\ERNI-EPM-University\\6. Code Quality\\6.2 Unit Testing\\CodeExerciseUnitTest1\\CodingExerciseUnitTest1\\Program.cs",
+              "RelativeToolTip": "CodingExerciseUnitTest1\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwAgAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T02:18:35.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProgramTest.cs",
+              "DocumentMoniker": "C:\\Users\\extcojc\\OneDrive - ERNI Group\\Desktop\\ERNI-EPM-University\\6. Code Quality\\6.2 Unit Testing\\CodeExerciseUnitTest1\\CodingExerciseUnitTest1Tests\\ProgramTest.cs",
+              "RelativeDocumentMoniker": "CodingExerciseUnitTest1Tests\\ProgramTest.cs",
+              "ToolTip": "C:\\Users\\extcojc\\OneDrive - ERNI Group\\Desktop\\ERNI-EPM-University\\6. Code Quality\\6.2 Unit Testing\\CodeExerciseUnitTest1\\CodingExerciseUnitTest1Tests\\ProgramTest.cs",
+              "RelativeToolTip": "CodingExerciseUnitTest1Tests\\ProgramTest.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAYwDEAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T08:23:44.983Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
